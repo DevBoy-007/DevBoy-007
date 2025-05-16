@@ -1,6 +1,7 @@
+
 # 👨‍💻 Hamza Qayyum — MERN Stack Developer
 
-![Profile Banner](https://your-image-link.com/banner.png)
+![MERN Stack Banner](./1721373010029.jpg)
 
 ## 📌 Summary
 Skilled **MERN Stack Developer** specializing in building scalable full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Passionate about delivering high-performance, user-focused solutions. Committed to writing clean, efficient code and optimizing backend operations for reliability.
@@ -14,8 +15,6 @@ Skilled **MERN Stack Developer** specializing in building scalable full-stack ap
 - Optimized 15+ REST APIs with Node.js and Express.js; improved API performance by ~20%.
 - Handled full CRUD operations with MongoDB and integrated JWT-based authentication.
 - Implemented Stripe for secure payment integration.
-
-![IIFA TECH Project Screenshot](https://your-image-link.com/iifatech.png)
 
 ### 🧑‍🎓 Trainee — Knowledge Stream (Jan 2024 – May 2024)
 - Created modular front-end architecture using React, React Router, and hooks.
@@ -32,8 +31,6 @@ Built a complete car-store application with customer management, order handling,
 
 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
 
-![Auto-X Screenshot](https://your-image-link.com/autox.png)
-
 ---
 
 ### 🤖 Bot-X — Chatbot App
@@ -41,8 +38,6 @@ Built a complete car-store application with customer management, order handling,
 Developed a virtual assistant chatbot using React and Gemini API.
 
 **Tech Stack:** React.js, Node.js, MongoDB, Gemini API, Mongoose
-
-![Bot-X Screenshot](https://your-image-link.com/botx.png)
 
 ---
 
