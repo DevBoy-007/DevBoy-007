@@ -1,5 +1,6 @@
 # 👨‍💻 Hamza Qayyum — MERN Stack Developer
 
+![MERN Stack Banner](./1721373010029.jpg)
 
 ## 📌 Summary
 Skilled **MERN Stack Developer** specializing in building scalable full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Passionate about delivering high-performance, user-focused solutions. Committed to writing clean, efficient code and optimizing backend operations for reliability.
@@ -43,6 +44,12 @@ Java-based desktop application for managing flights, passengers, and revenue.
 - **Data Structures**  
   Built projects using arrays, stacks, queues, linked lists, and trees. Used efficient data structures to manage state and data flow in front-end and back-end systems.
 
+- **Object-Oriented Programming (OOP)**  
+  Applied OOP principles such as encapsulation, inheritance, polymorphism, and abstraction in Java-based desktop and web applications.
+
+- **MVC Architecture**  
+  Followed the MVC (Model-View-Controller) design pattern to organize backend code using Node.js and Express.js, ensuring separation of concerns and scalability.
+
 ---
 
 ## 💡 Technical Skills
@@ -71,6 +78,7 @@ Java-based desktop application for managing flights, passengers, and revenue.
 ---
 
 > 🧠 *Soft Skills: Problem Solving | Communication | Time Management | Team Collaboration | Adaptability | Critical Thinking*
+
 
 
 
