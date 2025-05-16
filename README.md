@@ -1,57 +1,85 @@
-<!--
-  This README will display on your GitHub profile page.
-  Replace placeholders with your info.
--->
+# 👨‍💻 Hamza Qayyum — MERN Stack Developer
 
-# Hi, I'm Hamza Qayyum 👋
+![Profile Banner](https://your-image-link.com/banner.png)
 
-![Profile Banner](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80)
-
-I am a passionate **MERN Stack Developer** specializing in building scalable and responsive web applications.  
-With solid experience in React, Node.js, Express, and MongoDB, I focus on creating user-friendly and performant solutions.  
+## 📌 Summary
+Skilled **MERN Stack Developer** specializing in building scalable full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Passionate about delivering high-performance, user-focused solutions. Committed to writing clean, efficient code and optimizing backend operations for reliability.
 
 ---
 
-## 🚀 Technologies & Tools
+## 💼 Work Experience
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧑‍💻 Intern — IIFA TECH (May 2024 – Sep 2024)
+- Built a responsive React front-end with 10+ dynamic components using Formik and Yup.
+- Optimized 15+ REST APIs with Node.js and Express.js; improved API performance by ~20%.
+- Handled full CRUD operations with MongoDB and integrated JWT-based authentication.
+- Implemented Stripe for secure payment integration.
 
----
+![IIFA TECH Project Screenshot](https://your-image-link.com/iifatech.png)
 
-## 🛠️ Featured Projects
-
-### [AutoX Car Store](https://github.com/yourusername/AutoX-CarStore)  
-A full-stack MERN application for buying cars online with authentication, cart, and Stripe payment integration.  
-![AutoX Car Store Screenshot](https://i.imgur.com/yourImageLink.png)
+### 🧑‍🎓 Trainee — Knowledge Stream (Jan 2024 – May 2024)
+- Created modular front-end architecture using React, React Router, and hooks.
+- Developed secure REST APIs and used Sequelize ORM with PostgreSQL.
+- Applied JWT authentication for protected routes.
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projects
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 🚗 Auto-X — Car Store App
+> May 2024 – Sep 2024  
+Built a complete car-store application with customer management, order handling, and admin features.
 
----
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
 
-## 📫 Get In Touch
-
-- LinkedIn: [Hamza Qayyum](https://www.linkedin.com/in/hamzaqayyum-/)  
-- Email: [Dev.hamzaqayyum@gmail.com](mailto:Dev.hamzaqayyum@gmail.com)  
+![Auto-X Screenshot](https://your-image-link.com/autox.png)
 
 ---
 
-## 📄 License
+### 🤖 Bot-X — Chatbot App
+> Jan 2025 – Feb 2025  
+Developed a virtual assistant chatbot using React and Gemini API.
 
-This profile README is licensed under the MIT License.  
-Feel free to connect or collaborate!
+**Tech Stack:** React.js, Node.js, MongoDB, Gemini API, Mongoose
+
+![Bot-X Screenshot](https://your-image-link.com/botx.png)
 
 ---
 
-*Thank you for visiting my GitHub profile! 🙏*  
+### ✈️ Airport Management System
+> Jan 2023 – Aug 2023  
+Java-based desktop application for managing flights, passengers, and revenue.
+
+**Tech Stack:** JavaFX, JDBC, MySQL
+
+---
+
+## 💡 Technical Skills
+
+**Languages:** JavaScript, Java, Python, C++  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Stripe, Framer Motion, AOS  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools:** GitHub, Git Bash, VS Code, Postman, PgAdmin, IntelliJ
+
+---
+
+## 🎓 Education & Certifications
+
+- **BS Computer Science** — Islamia University of Bahawalpur (2019–2023)  
+  CGPA: 3.03/4.00  
+- **MERN Stack Bootcamp** — Knowledge Stream (Jan 2024 – May 2024)
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 [Email](mailto:Dev.HamzaQayyum@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamzaqayyum-/)
+- 🧑‍💻 [GitHub](https://github.com/DevBoy-007)
+
+---
+
+> 🧠 *Soft Skills: Problem Solving | Communication | Time Management | Team Collaboration | Adaptability | Critical Thinking*
+
+
 
