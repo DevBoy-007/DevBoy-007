@@ -34,7 +34,7 @@ Built a complete car-store application with customer management, order handling,
 
 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
 
----
+
 
 ### 🤖 Bot-X — Chatbot App
 > Jan 2025 – Feb 2025  
@@ -42,7 +42,7 @@ Developed a virtual assistant chatbot using React and Gemini API.
 
 **Tech Stack:** React.js, Node.js, MongoDB, Gemini API, Mongoose
 
----
+
 
 ### ✈️ Airport Management System
 > Jan 2023 – Aug 2023  
