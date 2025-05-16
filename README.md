@@ -1,31 +1,9 @@
-
 # 👨‍💻 Hamza Qayyum — MERN Stack Developer
 
+![MERN Stack Banner](./1721373010029.jpg)
 
 ## 📌 Summary
 Skilled **MERN Stack Developer** specializing in building scalable full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Passionate about delivering high-performance, user-focused solutions. Committed to writing clean, efficient code and optimizing backend operations for reliability.
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-
-## 💼 Work Experience
-
-### 🧑‍💻 Intern — IIFA TECH (May 2024 – Sep 2024)
-- Built a responsive React front-end with 10+ dynamic components using Formik and Yup.
-- Optimized 15+ REST APIs with Node.js and Express.js; improved API performance by ~20%.
-- Handled full CRUD operations with MongoDB and integrated JWT-based authentication.
-- Implemented Stripe for secure payment integration.
-
-### 🧑‍🎓 Trainee — Knowledge Stream (Jan 2024 – May 2024)
-- Created modular front-end architecture using React, React Router, and hooks.
-- Developed secure REST APIs and used Sequelize ORM with PostgreSQL.
-- Applied JWT authentication for protected routes.
 
 ---
 
@@ -55,7 +33,21 @@ Java-based desktop application for managing flights, passengers, and revenue.
 
 ---
 
+## 📘 Learnings
+
+- **Programming**  
+  Gained hands-on experience in writing modular, scalable code in JavaScript, Java, and Python. Developed real-world applications using React and Node.js.
+
+- **Algorithms**  
+  Practiced and applied searching, sorting, and optimization algorithms in academic and project scenarios. Improved problem-solving efficiency through algorithm design.
+
+- **Data Structures**  
+  Built projects using arrays, stacks, queues, linked lists, and trees. Used efficient data structures to manage state and data flow in front-end and back-end systems.
+
+---
+
 ## 💡 Technical Skills
+
 **Languages:** JavaScript, Java, Python, C++  
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Stripe, Framer Motion, AOS  
 **Databases:** MongoDB, PostgreSQL, MySQL  
@@ -80,6 +72,7 @@ Java-based desktop application for managing flights, passengers, and revenue.
 ---
 
 > 🧠 *Soft Skills: Problem Solving | Communication | Time Management | Team Collaboration | Adaptability | Critical Thinking*
+
 
 
 
