@@ -1,6 +1,5 @@
 # 👨‍💻 Hamza Qayyum — MERN Stack Developer
 
-![MERN Stack Banner](./1721373010029.jpg)
 
 ## 📌 Summary
 Skilled **MERN Stack Developer** specializing in building scalable full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Passionate about delivering high-performance, user-focused solutions. Committed to writing clean, efficient code and optimizing backend operations for reliability.
