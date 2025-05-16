@@ -78,6 +78,13 @@ Java-based desktop application for managing flights, passengers, and revenue.
   CGPA: 3.03/4.00  
 - **MERN Stack Bootcamp** — Knowledge Stream (Jan 2024 – May 2024)
 
+
+
+---
+##  🧠 Soft Skills:
+Problem Solving | Communication | Time Management | Team Collaboration | Adaptability | Critical Thinking*
+
+
 ---
 
 ## 🤝 Connect With Me
@@ -87,9 +94,12 @@ Java-based desktop application for managing flights, passengers, and revenue.
 - 🧑‍💻 [GitHub](https://github.com/DevBoy-007)
 
 ---
+## Fun Facts / Hobbies
+I love solving puzzles and challenges—whether they’re coding problems or brain teasers!
 
-> 🧠 *Soft Skills: Problem Solving | Communication | Time Management | Team Collaboration | Adaptability | Critical Thinking*
 
+
+Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions!
 
 
 
